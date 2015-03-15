@@ -6,3 +6,5 @@ npm install phantomjs -g (may have to use sudo before the command in ubuntu base
 To run the program afetr installing phantom js 
  1> just specify the URLs inside the url array of the program.
  2> Then in the terminal hit phantomjs FiddleCrawler.js
+ 
+ PS the jquery is needed for theprogram to run.. Download any version 1.4+ of jQuery named it as as "jquery.js" and place it in a root folder along with FiddleCrawler.js
