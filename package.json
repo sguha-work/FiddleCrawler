@@ -1,0 +1,22 @@
+{
+  "name": "FiddleCrawler",
+  "version": "0.0.1",
+  "description": "This program crawls a list of Jsfiddle links and save the HTML,CSS and JS in separate file",
+  "main": "FiddleCrwaler.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sguha-work/FiddleCrawler.git"
+  },
+  "keywords": [
+    "HTTP",
+    "HTTPS",
+    "Crawler",
+    "Testing"
+  ],
+  "author": "Sahasrangshu Guha",
+  "license": "MIT",
+  "dependencies": {
+    "phantomjs": "^1.9.17"
+  }
+}
